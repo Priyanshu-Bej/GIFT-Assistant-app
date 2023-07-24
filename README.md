@@ -1,2 +1,3 @@
-# GIFT-Assistant-app
-The GIFT Assistant App - Your all-in-one solution for college life! Stay organized, connect with peers, access resources, and excel academically. Embrace the full college experience with this app. 🎓📱 #Flutter #GIFTCollege
+# GIFT-Assistant-App
+
+This is the app Made by Priyanshu Bej for Gandhi Institute For Technology(GIFT), Bhubaneswar.
