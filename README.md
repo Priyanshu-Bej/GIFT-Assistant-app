@@ -8,4 +8,4 @@ This is the app Made by Priyanshu Bej using Flutter.
 
 -STAY CONNECT FOR MORE UPDATES. 
 
-THANK YOU :)
+THANK YOU 
