@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "priyanshubot-mkag",
+  "private_key_id": "7ee5552dc743f377ab3aebf05c2aeb1864385036",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4RfgmKRGIWazn\nToCPvIMNiull1OJ5/iV7uOEuBuvH4FPUXLmABeRHx9HKccEV8trdQNI3hqynILic\n2PmaUjDlRscWXYPTwVRI6ePRI8ry7W60ere/OLmUCjsgT0k49Pu17vHWnkWb0DnF\n/L3sAtSsmhJ/QVvEQcxrpMLo0TKke6cqghmkUz29nk3dvGb0/YOR8zv6Rl48ZIBU\nSSRAojEF7E5fSEjIFeHD4BAssznB0wSOz4xdHGoN4DTnhivFtEP24EmLpJ++W12g\nUGk7HOZ7+xMfc7mGC4OGWXVrwcmC5AT6PxhTK/QMGhySruuGAGDFYcxlMYOk+ArA\naqwqnc9vAgMBAAECggEAAMpr2rz71cMpgL7bn9ORR/Y3lCupYtpMdmPn6pbjOsQz\nFwW7DUjaDWai8FUYW0DBEF8CiaSsijqCcgRyRpt9Pz/pHw6pxu7PJGZANFuQEZ67\nr6kAxFtRLAASX6Ka64hSqbHru1xFCrxqnyfeE3bwZtiNiah38vVzRFJwbNuz+Qkw\n7Z1/dTA0ByG2PjOzig2YgjAQFRZJBhOOw5Fl67vbDF8Ghz1+054//9jJh9xuO9Yj\nGyEUMOAhp+73+ZwYbWDbOZSXpUTT9wB30R7MeppNxJg1Wj6XwIB4bDDJ/kO3knbE\n7cByLniccbufDmnb0ZOMPlc2pzANliiuhWVwup9c+QKBgQDpb1cDX0d/pSghuUlO\nESqToucOBrHBChy4F0ubb1XRCuDSmheBDFRCfTuen/t6ZSwjGpENxZvwOax3/8bJ\nNKwWO3iJus/yqbs6UXrPCB0xXq8lOXNYsOr40/a2PfVvlJzRhA8Uipkk27RQgReO\ngOKUrkD8CcUQJcAug+pjpKrQawKBgQDKFg9EihjIUiwkymCiU9gVs1TPMJUg1zXF\nJZesckk6J8GRRyZJlgS+jq3RerGoby9otBHXxaKiRGqKHRkIAy4onEzsJ5g73MAd\niCQ7KMPHu8PYkrgSVblsWXKx3muWKu9ac5U4grD5+zgHk97lXts8gc+57CnIwIre\nZ354vPouDQKBgBcaM8xbo6HYYI5l3gFh5YrS9ncG5pSqQYlelNb/P8j+gJ2XLnhR\nFg22gy4Bu0uzs5iNyolIY1R1AMKnh67mDZntrNJEsMvdTHBLHBJdRTZbno3aj7XZ\nXIffwmzq2N2AIb0CitOHm/xv2fqVrBUoYERCsp++/8fHVKvF1m6iH12dAoGAXa2U\nLkWF73aIGBXobddIF+clrVXsC2k398fRY5Mm9tpvFJVS3lG4qU0irjSeHmJMK9Et\nZESte2MTsCqE6/3ta83oqqBAJZ/TPt1ZTkM7Xl9gDgkVYwpyBhQA4wsj/Fyyz888\noRGUUI1wD7MwZEtwfb//N0SOqgz3UtnO+tE/eBECgYAEaxKCKIGAPiKXvOEHfilB\n4SbY6acmTOMZDgZIEa6XpIRBzsjZNyTSQyBYstLCA9es7qMEhHWH/bhC+KyE2VLl\nELbhhDIlOpsLPS61JWn8yctI7q0HpZ6zsJdZc+EfgSDDgBzAgj9C4KfhaKeZ3UF1\nPBmMZelThDMRY5u14v60Xg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "priyanshu-bot-api-key@priyanshubot-mkag.iam.gserviceaccount.com",
+  "client_id": "106011368336148094773",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/priyanshu-bot-api-key%40priyanshubot-mkag.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
